@@ -11,7 +11,6 @@ networking course at uni, but it taught us mainly how to code in Python, C, and 
 [INE Routing & Switching Technologies](https://downloads.ine.com/d/ccna-routing-switching-technologies) to go through.
 
 Headfirst Networking, like other books I've picked up from the Headfirst series, is very easy to read and explains concepts in
-simple language. It's a little bit dated, but the majority of the concepts still hold. At ~500 pages, it's not particularly 
+simple language. It's a little bit dated, but almost all of the concepts still hold. At ~500 pages, it's not particularly 
 long either, and I've covered half of the content including doing the exercises in a couple of days. I've picked up bits and 
-pieces about networking, but reading this book really makes me feel like I'm filling in all those little knowledge holes, and I
-feel generally less clueless about how I'd go about fixing a network issue in the future.
+pieces about networking, but reading this book really makes me feel like I'm filling in all those little knowledge holes, and I feel generally less clueless about how I'd go about fixing a network issue in the future.
