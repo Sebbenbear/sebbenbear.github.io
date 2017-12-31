@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post: 2017 - Year in Review
+title: First Post
 date: 2017-12-31
 ---
 
