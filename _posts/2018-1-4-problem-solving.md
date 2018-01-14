@@ -4,8 +4,6 @@ title: Problem Solving
 date: 2018-1-4
 ---
 
-# Problem Solving
-
 After spending lots of money on my education, it's been a joy to discover that I can continue to learn for free on my own terms. I'm very fond of online learning. One of my favourite courses was Udacity's "Introduction to Programming." Chapter 10, "How to solve problems" was one of the highlights of this course. When you learn to code, you're often not taught how to approach a problem systematically. I feel that the earlier you begin to solve problems in this way, the less time and frustration you'll feel!
 
 ## The Approach
