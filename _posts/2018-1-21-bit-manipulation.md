@@ -10,12 +10,12 @@ How is 583 represented in base 10?
 base10 -> 583
 
 ```
-     5 |    8  |    3
-  10^2 | 10^1  | 10^0 
-  100  |   10  |    1 
-=======================
-  5*102 + 8*101 + 3*100
-= 500   + 80   +    3
+      5  |    8   |     3
+    10^2 |  10^1  |   10^0 
+    100  |   10   |     1 
+==========================
+= 5*10^2 + 8*10^1 + 3*10^0
+=   500  +   80   +   3
 ```
 
 How is 5 represented in base 2?
@@ -24,10 +24,10 @@ How is 5 represented in base 2?
      1 |    0  |   1 
    2^2 |  2^1  | 2^0 
      4 |    2  |   1 
-=======================
- 1*22  +  0*21  + 1*28
-=  4   +    0  +   1
-=  5
+=========================
+ 1*2^2 + 0*2^1 + 1*2^8
+=   4  +   0   +   1
+=   5
 ```
 
 ## Binary Addition
@@ -36,7 +36,7 @@ Binary addition is not so different to adding in decimal.
 This is the standard way to add numbers in decimal:
 
 ```
-   1 1
+   11
    583
 +  637
 ======
@@ -46,7 +46,7 @@ This is the standard way to add numbers in decimal:
 And this is how we do it in binary - we simply carry the one if there’s more than two 1’s there.
 
 ```
-  1 1
+  11
   101
 + 011
 =====
