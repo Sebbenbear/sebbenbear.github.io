@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: Bit Manipulation
+title: Bit Manipulation
 date: 2018-1-21
 ---
 ## Binary (Positive Numbers)
