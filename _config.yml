@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
 future: true
 markdown: kramdown
+plugins:
+  - jekyll-feed
