@@ -23,7 +23,7 @@ const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
 console.table(dogs)
 ```
 
-![screenshot of console.table](/assets/console_table.png){:class="img-responsive"}
+![screenshot of console.table](/assets/console_table.png){: .img-responsive}
 
 ## console.group()
 
@@ -51,7 +51,7 @@ If the given boolean condition is true, nothing is printed. But if it's false, i
 console.assert(5 % 2 === 0, 'whoops');
 ```
 
-![screenshot of console.assert](/assets/console_assert.png){:class="img-responsive"}
+![screenshot of console.assert](/assets/console_assert.png){: .img-responsive}
 
 More information about the fam [here](https://developer.mozilla.org/en-US/docs/Web/API/Console/table).
 
@@ -116,6 +116,6 @@ const vehicleFrequency = data.reduce( (frequencyMap, vehicle) => {
 // lets use our new console.table for this!
 console.table(vehicleFrequency);
 ```
-![screenshot of reduce table](/assets/reduce_table.png){:class="img-responsive"}
+![screenshot of reduce table](/assets/reduce_table.png){: .img-responsive}
 
 That's about it from me! If you found any of these suprising, definitely check out the [Wes Bos course](https://javascript30.com/)!
