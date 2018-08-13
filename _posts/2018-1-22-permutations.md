@@ -3,7 +3,9 @@ layout: post
 title: Permutations
 date: 2018-1-22
 ---
-This is something I forget about all the time - what is the difference between a combination and a permuation? We know that it's something to do with getting different sets of element orderings. Let's use "abcd" as an example.
+
+This is something I forget about all the time - what is the difference between a combination and a permuation? 
+We know that it's something to do with getting different sets of element orderings. <!--break--> Let's use "abcd" as an example.
 
 We can easily see the differences in Python, if we import the [itertools](https://docs.python.org/3.6/library/itertools.html) library.
 
