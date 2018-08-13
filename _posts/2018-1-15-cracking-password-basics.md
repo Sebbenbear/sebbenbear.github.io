@@ -4,9 +4,7 @@ title: Cracking Password Basics
 date: 2018-1-15
 ---
 
-Whelp, it's about 1.30am on a Sunday, and I can't sleep - I'm too wide awake, too busy thinking about everything I did today! So hopefully, by writing it out of my system it'll be a bit easier to go to sleep.
-
-Today, I learned about one way of cracking a password given a hash. The way I will describe today uses the DES-based crypt function, which is available on most Linux systems. This is just one of many different ways to encrypt passwords, and luckily the ones most people use are much harder to crack than this one! I thought it was cool anyway, here's the breakdown.
+Today, I learned about one way of cracking a password given a hash. The way I will describe today uses the DES-based crypt function, which is available on most Linux systems. <!--break--> This is just one of many different ways to encrypt passwords, and luckily the ones most people use are much harder to crack than this one! I thought it was cool anyway, here's the breakdown.
 
 Security 101: it's very bad practice to store passwords in plain text! If some ill-meaning person were to snoop around your PC when you weren't watching, they could quite easily see your passwords and do some real damage in your name! Naturally, we don't want this to happen.
 
