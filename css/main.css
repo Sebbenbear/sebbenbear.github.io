@@ -2,6 +2,17 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+.heading {
+    color: white;
+    background: #AE6AC5;
+}
+
+.heading-content {
+    margin: auto;
+    padding: .75em;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
