@@ -46,3 +46,7 @@ ul.posts li {
     width: 100%;
     height: auto;
 }
+
+.current {
+    color: #AE6AC5
+}
