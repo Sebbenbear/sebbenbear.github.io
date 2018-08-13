@@ -10,7 +10,7 @@ title: Blog
 		<p>
 		{{ post.content | split:'<!--break-->' | first }}
 		</p>
-		<div class=".read-more">
+		<div class="read-more">
 			{% if post.content contains '<!--break-->' %}
 				<a href="{{ post.url }}"><b>Read more</b></a>
 			{% endif %}
