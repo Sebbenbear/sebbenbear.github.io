@@ -4,6 +4,10 @@ title: Operating Systems
 date: 2018-03-21
 ---
 
+A small write up on the important features of parallelism and concurrency, including notes on processes, threads, mutexes and monitors. This will go on to illustrate the differences in using concurrency between Python and Java.
+
+<!--break-->
+
 ## Processes
 
 A process is an instance of a computer program that is being executed. This process could be using multiple threads of execution, running the program in a concurrent manner.

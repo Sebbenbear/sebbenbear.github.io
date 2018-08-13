@@ -5,7 +5,7 @@ date: 2018-7-10
 tags: ["javascript"]
 ---
 
-Here's my top 3 learnings from the first few days of Javascript 30, a video course created by Wes Bos. If you're looking to level up your front end skills, this is a great place to go! He discusses newer features such as flex, array and object destructuring, ES6 syntax, canvas and more. <!--break--> These tutorials are recorded live coding videos - he makes some mistakes and voices how he reasons about fixing them, and it's super helpful to see an experienced developer code.
+Here's my top 3 learnings from the first few days of Javascript 30, a video course created by Wes Bos. If you're looking to level up your front end skills, this is a great place to go! <!--break--> He discusses newer features such as flex, array and object destructuring, ES6 syntax, canvas and more. These tutorials are recorded live coding videos - he makes some mistakes and voices how he reasons about fixing them, and it's super helpful to see an experienced developer code.
 
 If you haven't checked this course out, you can find it [here](https://javascript30.com/)
 
