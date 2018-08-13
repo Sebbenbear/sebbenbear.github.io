@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 0px auto;
+    text-align: center;
 }
 
 .heading {
@@ -60,4 +60,10 @@ ul.posts li {
 
 .current {
     color: #AE6AC5
+}
+
+.container {
+    margin: 60px auto;
+    width: 70%;
+    text-align: -webkit-left;
 }
