@@ -3,6 +3,10 @@ layout: post
 title: Bit Manipulation
 date: 2018-1-21
 ---
+
+Starting with base representation (decimal to binary), we walk through how to perform standard binary operations, how bit shifting works, what bitmasks are, and some interesting problems that this knowledge can be used to solve!
+<!--break-->
+
 ## Binary (Positive Numbers)
 
 How is 583 represented in base 10?
