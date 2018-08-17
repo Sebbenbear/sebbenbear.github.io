@@ -2,7 +2,17 @@
 layout: default
 title: Projects
 ---
-<div class="blurb">
-	<h1>Projects</h1>
-	<p>This is my projects page.</p>
-</div>
+  {% for project in site.projects %}
+    <div class="post-preview">
+    <h2>{{ project.title }}</h2>
+		<p>
+		{{ project.content | split:'<!--break-->' | first }}
+		</p>
+		<div class="read-more">
+			{% if project.content contains '<!--break-->' %}
+				<a href="{{ project.url }}"><b>Read more</b></a>
+			{% endif %}
+		</div>
+    </div>
+    <hr>
+  {% endfor %}
