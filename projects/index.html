@@ -3,18 +3,8 @@ layout: default
 title: Projects
 ---
   <h1>Projects</h1>
-  {% for project in site.projects %}
-	<h2>Project</h2>
-    <div class="post-preview">
-    <h2>{{ project.title }}</h2>
-		<p>
-		{{ project.content | split:'<!--break-->' | first }}
-		</p>
-		<div class="read-more">
-			{% if project.content contains '<!--break-->' %}
-				<a href="{{ project.url }}"><b>Read more</b></a>
-			{% endif %}
-		</div>
-    </div>
-    <hr>
+  {% for item in site.projects %}
+	<h2>{{ item.title }}</h2>
+	<!-- <p>{{ item.description }}</p> -->
+	<p><a href="{{ item.url }}">{{ item.title }}</a></p>
   {% endfor %}
