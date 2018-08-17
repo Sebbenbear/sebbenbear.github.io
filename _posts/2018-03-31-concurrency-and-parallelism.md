@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operating Systems
+title: Concurrency and Parallelism
 date: 2018-03-21
 ---
 
