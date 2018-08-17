@@ -6,5 +6,5 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 collections:
-  project:
+  projects:
     output: true
