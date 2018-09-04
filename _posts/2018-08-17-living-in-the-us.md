@@ -7,6 +7,7 @@ date: 2018-8-17
 ## Stipend
 
 Recurse Centre is amazing, in that they will provide a stipend to people from underrepresented demographics in tech - but it's very important that you recognise what you will need and be able to budget for it.
+<!--break-->
 
 At time of writing, if you meet their criteria, you can ask stipend up to $7.000 USD. 
 I've put together a handy guide to help you figure out what the minimal amount you will need is.
